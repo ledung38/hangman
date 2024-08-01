@@ -1,0 +1,121 @@
+# depslib dependency file v1.0
+1620248303 source:c:\hangman_dung\main.cpp
+	"xulychung.h"
+	"BaseObject.h"
+
+1620232585 c:\hangman_dung\xulychung.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<cctype>
+	<vector>
+	<fstream>
+	<algorithm>
+	<SDL.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	<string>
+	<SDL_image.h>
+
+1620235450 source:c:\hangman_dung\xulychung.cpp
+	"xulychung.h"
+
+1620135231 source:c:\hangman_dung\mainobject.cpp
+
+1620135231 c:\hangman_dung\mainobject.h
+	"BaseObject.h"
+	"xulychung.h"
+
+1620237682 c:\hangman_dung\baseobject.h
+	"xulychung.h"
+	<iostream>
+	<iostream>
+	<chrono>
+	<thread>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	<SDL.h>
+
+1620248917 source:c:\hangman_dung\baseobject.cpp
+	"BaseObject.h"
+
+1620125289 source:c:\hangman_dung\maingame.cpp
+	"MainGame.h"
+	"BaseObject.h"
+	"MainGame.h"
+
+1620125289 c:\hangman_dung\maingame.h
+	<iostream>
+	<SDl.h>
+	<SDL_image.h>
+	<string>
+
+1620807930 source:c:\dung20020380-main\dung20020380-main\hangman_dung\baseobject.cpp
+	"BaseObject.h"
+
+1620806538 c:\dung20020380-main\dung20020380-main\hangman_dung\baseobject.h
+	"xulychung.h"
+	<iostream>
+	<chrono>
+	<thread>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	<SDL.h>
+
+1620278504 c:\dung20020380-main\dung20020380-main\hangman_dung\xulychung.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<cctype>
+	<vector>
+	<fstream>
+	<algorithm>
+	<SDL.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	<string>
+	<SDL_image.h>
+
+1620809826 source:c:\dung20020380-main\dung20020380-main\hangman_dung\main.cpp
+	"xulychung.h"
+	"BaseObject.h"
+
+1620278504 source:c:\dung20020380-main\dung20020380-main\hangman_dung\xulychung.cpp
+	"xulychung.h"
+
+1620812798 source:c:\hangmandung\dung20020380-main\hangman_dung\baseobject.cpp
+	"BaseObject.h"
+
+1620806538 c:\hangmandung\dung20020380-main\hangman_dung\baseobject.h
+	"xulychung.h"
+	<iostream>
+	<chrono>
+	<thread>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	<SDL.h>
+
+1620278504 c:\hangmandung\dung20020380-main\hangman_dung\xulychung.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<cctype>
+	<vector>
+	<fstream>
+	<algorithm>
+	<SDL.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	<string>
+	<SDL_image.h>
+
+1620812798 source:c:\hangmandung\dung20020380-main\hangman_dung\main.cpp
+	"xulychung.h"
+	"BaseObject.h"
+
+1620278504 source:c:\hangmandung\dung20020380-main\hangman_dung\xulychung.cpp
+	"xulychung.h"
+
